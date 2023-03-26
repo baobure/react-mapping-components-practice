@@ -6,4 +6,4 @@ react-mapping-components-practice
 <p>
 <p>
 
-![](/screenshot.png)
+![](/screenshot.PNG)
